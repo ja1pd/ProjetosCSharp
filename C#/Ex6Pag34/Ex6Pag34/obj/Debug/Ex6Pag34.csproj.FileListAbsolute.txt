@@ -1,0 +1,5 @@
+H:\Programação Orientada a Objetos\C#\Ex6Pag34\Ex6Pag34\obj\Debug\Ex6Pag34.csproj.AssemblyReference.cache
+H:\Programação Orientada a Objetos\C#\Ex6Pag34\Ex6Pag34\obj\Debug\Ex6Pag34.Form1.resources
+H:\Programação Orientada a Objetos\C#\Ex6Pag34\Ex6Pag34\obj\Debug\Ex6Pag34.Properties.Resources.resources
+H:\Programação Orientada a Objetos\C#\Ex6Pag34\Ex6Pag34\obj\Debug\Ex6Pag34.csproj.GenerateResource.cache
+H:\Programação Orientada a Objetos\C#\Ex6Pag34\Ex6Pag34\obj\Debug\Ex6Pag34.csproj.CoreCompileInputs.cache

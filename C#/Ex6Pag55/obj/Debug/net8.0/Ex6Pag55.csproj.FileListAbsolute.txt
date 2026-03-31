@@ -1,0 +1,14 @@
+C:\Programação\C#\Ex6Pag55\bin\Debug\net8.0\Ex6Pag55.exe
+C:\Programação\C#\Ex6Pag55\bin\Debug\net8.0\Ex6Pag55.deps.json
+C:\Programação\C#\Ex6Pag55\bin\Debug\net8.0\Ex6Pag55.runtimeconfig.json
+C:\Programação\C#\Ex6Pag55\bin\Debug\net8.0\Ex6Pag55.dll
+C:\Programação\C#\Ex6Pag55\bin\Debug\net8.0\Ex6Pag55.pdb
+C:\Programação\C#\Ex6Pag55\obj\Debug\net8.0\Ex6Pag55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\Ex6Pag55\obj\Debug\net8.0\Ex6Pag55.AssemblyInfoInputs.cache
+C:\Programação\C#\Ex6Pag55\obj\Debug\net8.0\Ex6Pag55.AssemblyInfo.cs
+C:\Programação\C#\Ex6Pag55\obj\Debug\net8.0\Ex6Pag55.csproj.CoreCompileInputs.cache
+C:\Programação\C#\Ex6Pag55\obj\Debug\net8.0\Ex6Pag55.dll
+C:\Programação\C#\Ex6Pag55\obj\Debug\net8.0\refint\Ex6Pag55.dll
+C:\Programação\C#\Ex6Pag55\obj\Debug\net8.0\Ex6Pag55.pdb
+C:\Programação\C#\Ex6Pag55\obj\Debug\net8.0\Ex6Pag55.genruntimeconfig.cache
+C:\Programação\C#\Ex6Pag55\obj\Debug\net8.0\ref\Ex6Pag55.dll
