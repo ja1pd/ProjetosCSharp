@@ -1,0 +1,10 @@
+H:\3C1_2025\Banco\bin\Debug\Banco.exe.config
+H:\3C1_2025\Banco\bin\Debug\Banco.exe
+H:\3C1_2025\Banco\bin\Debug\Banco.pdb
+H:\3C1_2025\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+H:\3C1_2025\Banco\obj\Debug\Banco.Form1.resources
+H:\3C1_2025\Banco\obj\Debug\Banco.Properties.Resources.resources
+H:\3C1_2025\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+H:\3C1_2025\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+H:\3C1_2025\Banco\obj\Debug\Banco.exe
+H:\3C1_2025\Banco\obj\Debug\Banco.pdb
