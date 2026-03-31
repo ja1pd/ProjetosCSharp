@@ -1,0 +1,28 @@
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\bin\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.exe.config
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\bin\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.exe
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\bin\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.pdb
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.csproj.AssemblyReference.cache
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Exercicio1.resources
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Principal.resources
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Properties.Resources.resources
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.csproj.GenerateResource.cache
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.csproj.CoreCompileInputs.cache
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.exe
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.pdb
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Exercicio2.resources
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Exercicio3.resources
+H:\Lógica de Programação\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Exercicio4.resources
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\bin\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.exe.config
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\bin\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.exe
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\bin\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.pdb
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.csproj.AssemblyReference.cache
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Exercicio1.resources
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Exercicio2.resources
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Exercicio3.resources
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Exercicio4.resources
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Principal.resources
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício_Avaliativo_2ª_Etapa___5_Pontos.Properties.Resources.resources
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.csproj.GenerateResource.cache
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.csproj.CoreCompileInputs.cache
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.exe
+C:\Programação\C#\Exercício Avaliativo 2ª Etapa - 5 Pontos\Exercício Avaliativo 2ª Etapa - 5 Pontos\obj\Debug\Exercício Avaliativo 2ª Etapa - 5 Pontos.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jGI7RHWm9Jx2qwX0fYzOUEgwKL4F9sFjBysc5nJoU07QYul9WJTu7i6qk6Ea4b7EyUVgcjOOhVGLUx173SExQ==",
+  "success": true,
+  "projectFilePath": "C:\\Programação\\C#\\Ex10Pag15\\Ex10Pag15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
