@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Atividade Avaliativa  - Laços de repetição/1.0.0": {
+        "runtime": {
+          "Atividade Avaliativa  - Laços de repetição.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade Avaliativa  - Laços de repetição/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

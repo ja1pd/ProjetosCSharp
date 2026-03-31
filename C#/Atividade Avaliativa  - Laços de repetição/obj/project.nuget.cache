@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gnKbG1ShRzaieacnonOBzor83X9FafpdRChu4pdL0Ob4jS5iHDhccOq9h5kC6pD5spepfEkbauODqbxDSpxHlw==",
+  "success": true,
+  "projectFilePath": "C:\\Programação\\C#\\Atividade Avaliativa  - Laços de repetição\\Atividade Avaliativa  - Laços de repetição.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

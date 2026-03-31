@@ -1,0 +1,17 @@
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\bin\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.exe
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\bin\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.deps.json
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\bin\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.runtimeconfig.json
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\bin\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.dll
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\bin\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.pdb
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade_Avaliativa____Laços_de_repetição.Ex7Pag61.resources
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade_Avaliativa____Laços_de_repetição.Form1.resources
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.csproj.GenerateResource.cache
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.AssemblyInfoInputs.cache
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.AssemblyInfo.cs
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.csproj.CoreCompileInputs.cache
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.dll
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\refint\Atividade Avaliativa  - Laços de repetição.dll
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.pdb
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\Atividade Avaliativa  - Laços de repetição.genruntimeconfig.cache
+C:\Programação\C#\Atividade Avaliativa  - Laços de repetição\obj\Debug\net6.0-windows\ref\Atividade Avaliativa  - Laços de repetição.dll
