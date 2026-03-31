@@ -1,0 +1,16 @@
+C:\Programação\C#\Ex1Pag27\bin\Debug\net8.0-windows\Ex1Pag27.exe
+C:\Programação\C#\Ex1Pag27\bin\Debug\net8.0-windows\Ex1Pag27.deps.json
+C:\Programação\C#\Ex1Pag27\bin\Debug\net8.0-windows\Ex1Pag27.runtimeconfig.json
+C:\Programação\C#\Ex1Pag27\bin\Debug\net8.0-windows\Ex1Pag27.dll
+C:\Programação\C#\Ex1Pag27\bin\Debug\net8.0-windows\Ex1Pag27.pdb
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\Ex1Pag27.Form1.resources
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\Ex1Pag27.csproj.GenerateResource.cache
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\Ex1Pag27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\Ex1Pag27.AssemblyInfoInputs.cache
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\Ex1Pag27.AssemblyInfo.cs
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\Ex1Pag27.csproj.CoreCompileInputs.cache
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\Ex1Pag27.dll
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\refint\Ex1Pag27.dll
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\Ex1Pag27.pdb
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\Ex1Pag27.genruntimeconfig.cache
+C:\Programação\C#\Ex1Pag27\obj\Debug\net8.0-windows\ref\Ex1Pag27.dll
