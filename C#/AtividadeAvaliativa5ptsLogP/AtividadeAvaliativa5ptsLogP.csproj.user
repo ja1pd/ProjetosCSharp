@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Ex12Pag16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex15Pag16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex18Pag41.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex21Pag41.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex24Pag42.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex25Pag42.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex9Pag15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex10Pag16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex11Pag16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
