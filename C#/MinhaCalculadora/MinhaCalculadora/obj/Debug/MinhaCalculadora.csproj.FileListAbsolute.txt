@@ -1,0 +1,20 @@
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.exe.config
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.exe
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.pdb
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.AssemblyReference.cache
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.Form1.resources
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.Properties.Resources.resources
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.GenerateResource.cache
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.CoreCompileInputs.cache
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.exe
+H:\Programação Orientada a Objetos\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.pdb
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.exe.config
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.exe
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.pdb
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.AssemblyReference.cache
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.Form1.resources
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.Properties.Resources.resources
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.GenerateResource.cache
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.CoreCompileInputs.cache
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.exe
+C:\Programação\C#\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.pdb

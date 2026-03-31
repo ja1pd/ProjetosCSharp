@@ -1,0 +1,31 @@
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+H:\Lógica de Programação\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\usuario\Downloads\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Programação\C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
