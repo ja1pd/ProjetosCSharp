@@ -1,0 +1,16 @@
+C:\Programação\C#\pg15,ex4\bin\Debug\net6.0-windows\pg15,ex4.exe
+C:\Programação\C#\pg15,ex4\bin\Debug\net6.0-windows\pg15,ex4.deps.json
+C:\Programação\C#\pg15,ex4\bin\Debug\net6.0-windows\pg15,ex4.runtimeconfig.json
+C:\Programação\C#\pg15,ex4\bin\Debug\net6.0-windows\pg15,ex4.dll
+C:\Programação\C#\pg15,ex4\bin\Debug\net6.0-windows\pg15,ex4.pdb
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\pg15_ex4.Form1.resources
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\pg15,ex4.csproj.GenerateResource.cache
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\pg15,ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\pg15,ex4.AssemblyInfoInputs.cache
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\pg15,ex4.AssemblyInfo.cs
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\pg15,ex4.csproj.CoreCompileInputs.cache
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\pg15,ex4.dll
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\refint\pg15,ex4.dll
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\pg15,ex4.pdb
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\pg15,ex4.genruntimeconfig.cache
+C:\Programação\C#\pg15,ex4\obj\Debug\net6.0-windows\ref\pg15,ex4.dll

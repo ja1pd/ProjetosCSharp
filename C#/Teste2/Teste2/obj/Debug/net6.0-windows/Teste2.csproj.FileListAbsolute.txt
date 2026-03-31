@@ -1,0 +1,16 @@
+C:\Programação\C#\Teste2\Teste2\bin\Debug\net6.0-windows\Teste2.exe
+C:\Programação\C#\Teste2\Teste2\bin\Debug\net6.0-windows\Teste2.deps.json
+C:\Programação\C#\Teste2\Teste2\bin\Debug\net6.0-windows\Teste2.runtimeconfig.json
+C:\Programação\C#\Teste2\Teste2\bin\Debug\net6.0-windows\Teste2.dll
+C:\Programação\C#\Teste2\Teste2\bin\Debug\net6.0-windows\Teste2.pdb
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\Teste2.Form1.resources
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\Teste2.csproj.GenerateResource.cache
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\Teste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\Teste2.AssemblyInfoInputs.cache
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\Teste2.AssemblyInfo.cs
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\Teste2.csproj.CoreCompileInputs.cache
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\Teste2.dll
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\refint\Teste2.dll
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\Teste2.pdb
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\Teste2.genruntimeconfig.cache
+C:\Programação\C#\Teste2\Teste2\obj\Debug\net6.0-windows\ref\Teste2.dll
